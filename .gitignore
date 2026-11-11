@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+venv/
+.venv/
+
+version_4/sessions/
+version_5/sessions/
+
+
+
